@@ -1,2 +1,6 @@
 # World_Weather_Analysis
-Mod 6 WeatherPy with Python APIs
+This project uses APIs to complete three different analyses:
+
+1. Create a weather database
+2. Create a travel destinations map
+3. Create a travel itinerary map
